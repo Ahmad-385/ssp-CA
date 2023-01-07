@@ -1,73 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu>
-  <category name="Coffee">
+  <category name="Chicken">
     <item>
-      <listing>Latte</listing>
-      <price>3.00</price>
+      <listing>Chicken Donner Tray</listing>
+      <price>8.00</price>
     </item>
-    <item>
-      <listing>Hot Choclate</listing>
-      <price>3.70</price>
-    </item>
+    
     <item decaf="true">
-      <listing>Prewette</listing>
-      <price>3.60</price>
+      <listing>Chicken Shawarma Meal</listing>
+      <price>11.99</price>
     </item>
   </category>
-  <category name="Frappe">
+  <category name="Lamb">
     <item>
-      <listing>Salted Caramel </listing>
-      <price>4.00</price>
+      <listing>Lamb Donner Tray</listing>
+      <price>8.00</price>
     </item>
-    <item>
-      <listing>Caramel Drizzle</listing>
-      <price>4.25</price>
-    </item>
+   
     <item decaf="true">
-      <listing>Pumpkin Pie</listing>
-      <price>3.80</price>
+      <listing>Lamb Donner Meal</listing>
+      <price>11.99</price>
     </item>
   </category>
-  <category name="Iced Coffee">
+  <category name="Mix Donner">
     <item>
-      <listing>Iced Spice Latte</listing>
-      <price>3.20</price>
+      <listing>Mix Shawarma Tray</listing>
+      <price>8.00</price>
     </item>
-    <item>
-      <listing>Cold Brew</listing>
-      <price>3.90</price>
-    </item>
+    
     <item decaf="true">
-      <listing>Iced Espresso</listing>
-      <price>3.80</price>
+      <listing>Mix Donner Meal</listing>
+      <price>11.99</price>
     </item>
   </category>
-  <category name="Tea">
+  <category name="Vegtable">
     <item>
-      <listing>Green Tea</listing>
-      <price>3.40</price>
+      <listing>Veg Kebab Wrap</listing>
+      <price>7.00</price>
     </item>
-    <item>
-      <listing>Ginger Tea</listing>
-      <price>3.00</price>
-    </item>
+   
     <item decaf="true">
-      <listing>Mint Tea</listing>
-      <price>3.50</price>
+      <listing>Veg wrap meal</listing>
+      <price>9.99</price>
     </item> 
   </category>
-  <category name="Deserts">
+  <category name="Flaffel">
     <item>
-      <listing>Cookies</listing>
-      <price>6.00</price>
+      <listing>Flaffel Kebab wrap</listing>
+      <price>7.00</price>
     </item>
-    <item>
-      <listing>Brownies</listing>
-      <price>5.10</price>
+     <item decaf="true">
+      <listing>Flaffel wrap meal</listing>
+      <price>9.99</price>
     </item>
-    <item>
-      <listing>Custard</listing>
-      <price>5.10</price>
-    </item>
+   
   </category>
 </menu>

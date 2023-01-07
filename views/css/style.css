@@ -1,0 +1,25 @@
+table {
+    border: none;
+    width: 100%;
+    margin: 0;
+}
+
+th {
+    font-weight: bold;
+}
+
+td:nth-child(1) {
+    text-align: center;
+    color: #6610f2;
+}
+
+td:nth-child(2) {
+    text-align: left;
+}
+
+
+/*
+.selected {
+    background-color: #6acc6a;
+    opacity: 0.3;
+}*/.
